@@ -13,10 +13,15 @@ namespace HelloWorldApp {
 			// statement
 			// printing Hello World!
 			Console.WriteLine("Hello World!");
+            Add();
 			
 			// To prevents the screen from
 			// running and closing quickly
 			Console.ReadKey();
 		}
+
+        public static void Add(
+            Console.WriteLine(5+5);
+        )
 	}
 }
